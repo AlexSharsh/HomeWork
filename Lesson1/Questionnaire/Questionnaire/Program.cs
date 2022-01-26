@@ -11,7 +11,7 @@ namespace Questionnaire
         static void Main(string[] args)
         {
             Console.Title = "Анкета";
-/*
+
             // ЗАДАНИЕ 1: 
             // Написать программу «Анкета». 
             // Последовательно задаются вопросы (имя, фамилия, возраст, рост, вес). 
@@ -156,7 +156,7 @@ namespace Questionnaire
             Console.ReadKey();
             Console.Clear();
             #endregion
-*/
+
             // ЗАДАНИЕ 5: 
             // Написать программу, которая выводит на экран ваше имя, фамилию и город проживания.
             #region Task5
